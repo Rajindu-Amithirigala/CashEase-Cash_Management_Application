@@ -15,7 +15,7 @@
 - CSV
 
 ## Requirements
-- Python 3.x
+- Python 3.8
 - PIL (Pillow)
 - pandas
 
