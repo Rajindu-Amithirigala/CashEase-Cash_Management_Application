@@ -33,12 +33,6 @@ No accounts. No subscriptions. No cloud. Just you and your money.
 
 ---
 
-## 🖥️ Screenshots
-
-> *Add screenshots of your app here — a picture is worth a thousand budget spreadsheets.*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
